@@ -195,8 +195,7 @@ opacity: .4;
     padding-top: 6px ;  
 }
 #leftfoot{
-    display: flex;
-    align-items: center;
+  
     padding: 10px 100px ;
     background-color: black;
     font-style: italic;
